@@ -1,7 +1,12 @@
-# Nft marketplace dapp
+# Nft marketplace react app
 
-This is sample of nft marketplace dapp
+This is simple nft marketplace app.
 
-User can see nft's he has in wallet and can purchase new nft's from marketplace
+# Description
+User can see nft's he has in wallet and can purchase new nft's from marketplace.
+
+# Stack
+
+React, Typescript, MaterialUi
 
 
